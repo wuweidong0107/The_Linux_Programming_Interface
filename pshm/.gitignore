@@ -1,0 +1,4 @@
+/pshm_create
+/pshm_read
+/pshm_unlink
+/pshm_write

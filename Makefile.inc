@@ -28,7 +28,6 @@ IMPL_CFLAGS = -std=c99 -D_XOPEN_SOURCE=600 \
 		-W \
 		-Wmissing-prototypes \
 		-Wno-sign-compare \
-		-Wimplicit-fallthrough \
 		-Wno-unused-parameter
 
 # clang(1) is a little more zealous than gcc(1) with respect to some warnings.

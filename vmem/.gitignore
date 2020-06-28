@@ -1,0 +1,3 @@
+/madvise_dontneed
+/memlock
+/t_mprotect

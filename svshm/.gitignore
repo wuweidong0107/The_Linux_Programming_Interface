@@ -1,0 +1,11 @@
+/svshm_attach
+/svshm_create
+/svshm_info
+/svshm_lock
+/svshm_mon
+/svshm_rm
+/svshm_unlock
+/svshm_xfr_reader
+/svshm_xfr_reader.o
+/svshm_xfr_writer
+/svshm_xfr_writer.o

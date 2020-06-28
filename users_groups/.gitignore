@@ -1,0 +1,4 @@
+/check_password
+/check_password.o
+/t_getpwent
+/t_getpwnam_r

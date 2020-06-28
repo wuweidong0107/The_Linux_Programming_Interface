@@ -1,0 +1,6 @@
+/demo_sched_fifo
+/sched_set
+/sched_view
+/t_sched_getaffinity
+/t_sched_setaffinity
+/t_setpriority
